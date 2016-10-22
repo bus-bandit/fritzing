@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=scotts_hbridge
+*Date=20:07:01
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;23.913;-24.1501;0;Bottom;J1
+2;;;33.4946;-21.1979;0;Bottom;TXT1
+3;10k;THT;38.063;-41.9301;180;Bottom;R4
+4;;THT;43.143;-33.0401;-90;Bottom;U1
+5;;THT;10.123;-10.1801;90;Bottom;U2
+6;1k;THT;22.823;-3.83012;0;Bottom;R5
+7;;TO220 [THT];22.823;-7.38612;180;Bottom;Q5
+8;;;43.1998;-8.9163;0;Bottom;TXT1
+9;1k;THT;45.683;-19.0701;90;Bottom;R2
+10;;;31.3323;-31.4236;0;Bottom;TXT1
+11;10k;THT;15.203;-31.7701;-90;Bottom;R3
+12;;;2.50299;-3.83012;0;Bottom;Hole1
+13;;;48.223;-41.9301;0;Bottom;Hole3
+14;;TO220 [THT];22.823;-37.8661;180;Bottom;Q8
+15;;TO220 [THT];8.59899;-34.3101;-90;Bottom;Q6
+16;;;48.223;-3.83012;0;Bottom;Hole2
+17;;THT;36.613;-6.37012;0;Bottom;J2
+18;;;31.7737;-16.2324;0;Bottom;TXT1
+19;;;43.1849;-3.55272;0;Bottom;TXT1
+20;;;2.50299;-41.9301;0;Bottom;Hole4
+21;;;33.5197;-26.4224;0;Bottom;TXT1
+22;;TO220 [THT];11.647;-21.6101;90;Bottom;Q7
